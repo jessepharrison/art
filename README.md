@@ -1,7 +1,7 @@
 
 [![Photography](https://img.shields.io/badge/Photography-Shots-black?style=for-the-badge)](https://shots.pushpinderpalsingh.com/) [![AutShots](https://img.shields.io/badge/AutoShots-black?style=for-the-badge)](https://github.com/pushpinderpalsingh/AutoShots)
 # Shots 
-A tracker and ad free version of [rampatra/photography](https://github.com/rampatra/photography)
+A tracker and ad free version of [rampatra/photography](https://github.com/rampatra/photography), courtesy of [pushpinderpalsingh/Shots](https://github.com/pushpinderpalsingh/Shots)
 
 ## Highlights
 1. Easy setup and you get a site of your own for __free__.
@@ -20,11 +20,11 @@ it's hosted by GitHub for __free__.
 3. Upload your pictures to `images` directory. And a Github Action will add the photos where it needs to be.
 4. Add your own custom domain in `CNAME` file or just remove the file if you don't own a domain and use the default domain that github provides ([yourusername].github.io/photography).
 5. Update `baseurl` field in `_config.yml` file with whatever domain you used in step 4.
-6. And that's it, your website is set. To view, go to [shots.pushpinderpalsingh.com/](https://shots.pushpinderpalsingh.com/) (or whatever you have in the CNAME file) and if you don't have one, you can go to [[yourusername].github.io/Shots](http://yourusername.github.io/Shots)
+6. And that's it, your website is set. To view, go to whatever URL you have in the CNAME file. If you don't have one, you can go to [[yourusername].github.io/name-of-your-repo](http://yourusername.github.io/name-of-your-repo)
 
 You can change my name in `_config.yml` file.
 
-You can also autmate the deployement of your new Photos using [AutoShots](https://github.com/pushpinderpalsingh/AutoShots)
+You can also automate the deployment of photos using [AutoShots](https://github.com/pushpinderpalsingh/AutoShots)
 
 ## Acknowledgment
-- I am not a web developer. All the credit for this website goes to [Ram](https://github.com/rampatra).
+- All the credit for this GitHub pages layout goes to [Ram](https://github.com/rampatra) and [Pushpinder](https://github.com/pushpinderpalsingh/).
