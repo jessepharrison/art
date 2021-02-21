@@ -5,11 +5,11 @@ image_thumbs_loc: "/images/thumbs"
 # UI configs
 title: "Jesse Harrison Artwork"
 subtitle:
-author: Jesse Harrison (2010 - 2021)
+author: Jesse Harrison (2010-2021), contact: jesse.p.harrison@gmail.com
 header:
  title: "Jesse Harrison Artwork"
  subtitle:
-footer: jesse.p.harrison@gmail.com
+footer:
  name: "Jesse Harrison (* 1984, Finland)"
  bio: "I create photos and atmospheres with a focus on the space between visual art and music. Awards: 2018 Fine Art Photography Awards, Landscape Nominee | 2017 MonoVisions Photography Awards, Honourable Mention | 2015 Scottish Landscape Photographer of the Year, John Muir Trust Wild Places Prize"
 social_urls:
