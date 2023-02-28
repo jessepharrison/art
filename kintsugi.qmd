@@ -9,7 +9,7 @@ lightbox: auto
 It is also possible to repair items using only urushi, in which case the end
 finish is simpler.
 
-Click on an image to open up a larger version and use arrow keys to navigate 
+Click on an image to open up a larger version and swwipe (or use arrow keys) to navigate 
 between images.
 
 ::: {layout-ncol=2}
