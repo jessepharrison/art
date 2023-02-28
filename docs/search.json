@@ -7,18 +7,18 @@
     "text": "Biography\nI work as a freelance artist with a focus on nature photography, traditional kintsugi / gintsugi repairs and short poems. My art is mostly inspired by my interest in hiking, music and tea.\n\n\n\nPhotography\nMy photos are available as Alu-Dibond prints. For quotes, please email me.\nPhoto awards\n\n\n2018: Fine Art Photography Awards, Landscape Nominee\n2017: MonoVisions, Honourable Mention\n2015: Scottish Landscape Photographer of the Year, John Muir Trust Wild Places Prize\n\n\n\n\n\nKintsugi / gintsugi repairs\nRepairs are available upon request. I only use natural, food-safe raw materials (urushi, tonoko, gold and silver). When requesting a quote, please also send me photos of the broken item(s).\n\n\n\nFurther details\nAside from art, I work as a Senior Data Scientist and Project Manager at CSC - IT Center for Science. More on this on my other website."
   },
   {
-    "objectID": "posts/permedcoe-elixir-article/index.html",
-    "href": "posts/permedcoe-elixir-article/index.html",
-    "title": "PerMedCoE ELIXIR feature",
+    "objectID": "words.html",
+    "href": "words.html",
+    "title": "Words",
     "section": "",
-    "text": "PerMedCoE combines clinical patient data with data related to the operation of genes, proteins and cells. The goal is to develop easy-to-use tools that can be used in precision medicine, leveraging the power of modern supercomputers.\n\n\nRecently a feature on the Horizon 2020 PerMedCoE project, titled Personalised medicine against cancer and viruses, was published on the ELIXIR Finland website.\nThe text features commentaries from CSC - IT Center for Science (Project Manager Sampo Sillanpää and myself), as well as the Institute for Molecular Medicine Finland (Group Leader Esa Pitkänen)."
+    "text": "New beginnings\n\n\n\n\n\n\n\nWebsite\n\n\nNews\n\n\n\n\nNew focus and website redesign\n\n\n\n\n\n\nFeb 28, 2023\n\n\nJesse Harrison\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Posts",
+    "objectID": "posts/new-beginnings/index.html",
+    "href": "posts/new-beginnings/index.html",
+    "title": "New beginnings",
     "section": "",
-    "text": "PerMedCoE ELIXIR feature\n\n\n\n\n\n\n\nPerMedCoE\n\n\nNews\n\n\n\n\nFeature on PerMedCoE published on ELIXIR Finland website\n\n\n\n\n\n\nAug 25, 2022\n\n\nJesse Harrison\n\n\n\n\n\n\nNo matching items"
+    "text": "It was then I knew the beginning of something new…\n\n\nFor many years, my interests in creating art was strongly focused on landscape photography, often guided through the lends of music. This led me to design several album covers and also music videos. However, more recently I have felt something of a shift in my approach, moving toward and through a wider range of materials and media to work with. The interest in photography remains, but there are also new areas to explore.\nThat shift also means there was a need for a complete rehaul of my website to create room for new types of content. Spending some time to find a suitable tool for this, I was very happy to discover Quarto. During this process, I also reworked my other professional website using the same template and linked both pages together.\nI’ve always preferred lightweight websites and feel this new version does a good job at featuring different kinds of content without sacrificing simplicity. I hope you feel the same and enjoy browsing!"
   },
   {
     "objectID": "photography.html",
@@ -26,20 +26,6 @@
     "title": "Photography",
     "section": "",
     "text": "This gallery contains a selection of my photos across a number of years. Click on an image to open up a larger version and use arrow keys to navigate between images."
-  },
-  {
-    "objectID": "photography.html#r-and-bioinformatics-courses",
-    "href": "photography.html#r-and-bioinformatics-courses",
-    "title": "Teaching and Supervision",
-    "section": "R and bioinformatics courses",
-    "text": "R and bioinformatics courses\nCourses I have developed and taught at CSC - IT Center for Science Ltd include:\n\nData Analysis with R (introductory course on data wrangling, plotting and statistics)\nMicrobial Community Analysis with Chipster (intermediate course on amplicon data analysis)\nPuhti R/RStudio Workshop (introductory course on using R on the Puhti supercomputer)\n\nI have also taught R courses at the University of Helsinki (KLTO-132 Statistics with R)."
-  },
-  {
-    "objectID": "photography.html#further-courses-and-project-supervision",
-    "href": "photography.html#further-courses-and-project-supervision",
-    "title": "Teaching and Supervision",
-    "section": "Further courses and project supervision",
-    "text": "Further courses and project supervision\n\n2013–2017: Masters Project Supervisor (six students, Universities of Vienna and Edinburgh)\n2016: Practical Instructor (International FISH Course, University of Vienna)\n2012–2013: MOOC Teaching Assistant (Astrobiology and the Search for Extraterrestrial Life, University of Edinburgh)"
   },
   {
     "objectID": "about.html",
@@ -54,33 +40,5 @@
     "title": "Kintsugi & gintsugi repairs",
     "section": "",
     "text": "Kintsugi refers to repairs using gold, whereas gintsugi repairs use silver. It is also possible to repair items using only urushi, in which case the end finish is simpler.\nClick on an image to open up a larger version and use arrow keys to navigate between images."
-  },
-  {
-    "objectID": "kintsugi.html#r-and-bioinformatics-courses",
-    "href": "kintsugi.html#r-and-bioinformatics-courses",
-    "title": "Teaching and Supervision",
-    "section": "R and bioinformatics courses",
-    "text": "R and bioinformatics courses\nCourses I have developed and taught at CSC - IT Center for Science Ltd include:\n\nData Analysis with R (introductory course on data wrangling, plotting and statistics)\nMicrobial Community Analysis with Chipster (intermediate course on amplicon data analysis)\nPuhti R/RStudio Workshop (introductory course on using R on the Puhti supercomputer)\n\nI have also taught R courses at the University of Helsinki (KLTO-132 Statistics with R)."
-  },
-  {
-    "objectID": "kintsugi.html#further-courses-and-project-supervision",
-    "href": "kintsugi.html#further-courses-and-project-supervision",
-    "title": "Teaching and Supervision",
-    "section": "Further courses and project supervision",
-    "text": "Further courses and project supervision\n\n2013–2017: Masters Project Supervisor (six students, Universities of Vienna and Edinburgh)\n2016: Practical Instructor (International FISH Course, University of Vienna)\n2012–2013: MOOC Teaching Assistant (Astrobiology and the Search for Extraterrestrial Life, University of Edinburgh)"
-  },
-  {
-    "objectID": "words.html",
-    "href": "words.html",
-    "title": "Words",
-    "section": "",
-    "text": "New beginnings\n\n\n\n\n\n\n\nWebsite\n\n\nNews\n\n\n\n\nNew focus and website redesign\n\n\n\n\n\n\nFeb 28, 2023\n\n\nJesse Harrison\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/new-beginnings/index.html",
-    "href": "posts/new-beginnings/index.html",
-    "title": "New beginnings",
-    "section": "",
-    "text": "It was then I knew the beginning of something new…\n\n\nFor many years, my interests in creating art was strongly focused on landscape photography, often guided through the lends of music. This led me to design several album covers and also music videos. However, more recently I have felt something of a shift in my approach, moving toward and through a wider range of materials and media to work with. The interest in photography remains, but there are also new areas to explore.\nThat shift also means there was a need for a complete rehaul of my website to create room for new types of content. Spending some time to find a suitable tool for this, I was very happy to discover Quarto. During this process, I also reworked my other professional website using the same template and linked both pages together.\nI’ve always preferred lightweight websites and feel this new version does a good job at featuring different kinds of content without sacrificing simplicity. I hope you feel the same and enjoy browsing!"
   }
 ]

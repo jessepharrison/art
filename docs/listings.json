@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/posts.html",
-    "items": [
-      "/posts/permedcoe-elixir-article/index.html"
-    ]
-  },
-  {
     "listing": "/words.html",
     "items": [
       "/posts/new-beginnings/index.html"

@@ -10,7 +10,7 @@ description: 'New focus and website redesign'
 draft: false
 ---
 
-<img src="preview.jpg"/>
+<img src="beginnings.jpg"/>
 
 <small>
 
