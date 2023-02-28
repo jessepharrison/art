@@ -1,0 +1,52 @@
+---
+project:
+  type: website
+  output-dir: docs
+
+title: "Jesse Harrison Artwork"
+description: "Visuals, Words, Kintsugi Repairs"
+image: static/prof_pic.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: Contact me
+      href: mailto:info@jesse-harrison.com
+    - text: Follow me on Instagram
+      href: http://instagram.com/jesseharrisonart/
+---
+
+#### **Biography**
+
+I work as a freelance artist with a focus on nature photography, traditional kintsugi / gintsugi repairs and short poems. My art is mostly inspired by my interest in hiking, music and tea.
+
+---
+
+#### **Photography**
+
+My photos are available as Alu-Dibond prints. For quotes, please email me.
+
+**Photo awards**
+
+<small>
+
+- **2018:** [Fine Art Photography Awards](https://fineartphotoawards.com/), Landscape Nominee
+- **2017:** [MonoVisions](https://monovisionsawards.com/), Honourable Mention
+- **2015:** [Scottish Landscape Photographer of the Year](https://slpoty.co.uk/), John Muir Trust Wild Places Prize
+
+</small>
+
+---
+
+#### **Kintsugi / gintsugi repairs**
+
+Repairs are available upon request. I only use natural, food-safe raw materials (urushi, tonoko, gold and silver). When requesting a quote, please also send me photos of the broken item(s).
+
+---
+
+#### **Further details**
+
+Aside from art, I work as a Senior Data Scientist and Project Manager at [CSC - IT Center for Science](https://www.csc.fi/en/). More on this on [my other website](https://jessepharrison.github.io/).
+
+---

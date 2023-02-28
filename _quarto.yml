@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jesse Harrison Artwork"
+  navbar:
+    left:
+      - text: Photography
+        href: photography.qmd
+      - text: Kintsugi & gintsugi
+        href: kintsugi.qmd
+      - text: Words
+        href: words.qmd
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+

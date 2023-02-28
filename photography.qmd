@@ -1,0 +1,33 @@
+---
+title: "Photography"
+filters:
+   - lightbox
+lightbox: auto
+---
+
+This gallery contains a selection of my photos across a number of years. Click
+on an image to open up a larger version and use arrow keys to navigate between
+images.
+
+::: {layout-ncol=2}
+
+![](static/photography/0010.jpg){group="elsewhere"}
+
+![](static/photography/0013.jpg){group="elsewhere"}
+
+![](static/photography/0003.jpg){group="elsewhere"}
+
+![](static/photography/0033.jpg){group="elsewhere"}
+
+![](static/photography/0028.jpg){group="elsewhere"}
+
+![](static/photography/0031.jpg){group="elsewhere"}
+
+![](static/photography/0007.jpg){group="elsewhere"}
+
+![](static/photography/0029.jpg){group="elsewhere"}
+
+![](static/photography/0002.jpg){group="elsewhere"}
+
+![](static/photography/0018.jpg){group="elsewhere"}
+:::
