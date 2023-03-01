@@ -20,18 +20,18 @@ draft: false
 
 ---
 
-For many years, my interests in creating art was strongly focused on landscape
-photography, often guided through the lends of music. This led me to design 
-several album covers and also music videos. However, more recently I have felt
-something of a shift in my approach, moving toward and through a wider range of
-materials and media to work with. The interest in photography remains, but there
-are also new areas to explore.
+For many years, my interest in creating visual art was strongly focused on
+landscape and nature photography, often with some musical inspiration. This led
+me to design several album covers and also music videos. More recently I have 
+felt a shift in my approach, moving toward and through a wider  range of topics
+and media to work with. The interest in photography remains, but there are also
+new areas to explore.
 
-That shift also means there was a need for a complete rehaul of my website to
+That shift also means there was a need for a complete reworking of my website to
 create room for new types of content. Spending some time to find a suitable tool
-for this, I was very happy to discover [Quarto](https://quarto.org/). During
-this process, I also reworked my [other professional website](https://jessepharrison.github.io/) 
-using the same template and linked both pages together.
+for this, I was very happy to discover [Quarto](https://quarto.org/). As part of
+the process, I also reworked my [other professional website](https://jessepharrison.github.io/) 
+using the same tool and linked both pages together.
 
 I've always preferred lightweight websites and feel this new version does a good
 job at featuring different kinds of content without sacrificing simplicity. I
