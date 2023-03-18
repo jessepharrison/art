@@ -5,14 +5,22 @@ filters:
 lightbox: auto
 ---
 
-*Kintsugi* refers to repairs using gold, whereas *gintsugi* repairs use silver.
+*Kintsugi* refers to repairs using gold, while *gintsugi* repairs use silver.
 It is also possible to repair items using only urushi, in which case the end
 finish is simpler.
 
-Click on an image to open up a larger version and swipe (or use arrow keys) to navigate 
+Click on an image to open up a larger version and swipe (or use arrow keys) to move 
 between images.
 
 ::: {layout-ncol=2}
+
+![](static/kintsugi/0005.jpg){group="elsewhere"}
+
+![](static/kintsugi/0006.jpg){group="elsewhere"}
+
+![](static/kintsugi/0003.jpg){group="elsewhere"}
+
+![](static/kintsugi/0004.jpg){group="elsewhere"}
 
 ![](static/kintsugi/0001.jpg){group="elsewhere"}
 
