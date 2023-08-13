@@ -5,7 +5,7 @@ filters:
 lightbox: auto
 ---
 
-This gallery contains a selection of my photos over a number of years. Click on an image to open up a larger version and swipe (or use arrow keys) to move between images.
+This gallery contains a selection of my photos over a number of years. Click on an image to open up a larger version and swipe (or use arrow keys) to move between images. Also see the *Words* section for photo stories.
 
 ::: {layout-ncol="2"}
 ![](static/photography/0010.jpg){group="elsewhere"}
