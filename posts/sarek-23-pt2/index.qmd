@@ -1,0 +1,66 @@
+---
+title: 'Sarek, Aug 2023 (Part 2)'
+author: Jesse Harrison
+date: '2023-08-17'
+slug: sarek-2023
+categories:
+    - Hiking
+    - Sarek
+description: 'Through the Sarek Wilderness'
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+---
+
+**For the first part of this photo story, [see here](https://www.jesse-harrison.com/posts/sarek-23-pt1/).**
+
+## Day 4: Continuing from Ruohtesvágge to Snávvávágge
+
+*21.1km, 586m ascent*
+
+From here on the weather was in our favour, with only the occasional rain shower passing over us. Passing Skárjá and the temporary summer bridge, taking in the severe power of the Mihkajåhkå river that drains the vast Mihkajiegna and fuses with Smájlajjåhkå, the land underneath cracked open by it. Here at the heart of Sarek also begins the Ráhpajåhkå, giving rise to Ráhpaädno and the massive Rapadalen river system.
+
+::: {layout-ncol="1"}
+![](skarja.JPG){group="elsewhere"}
+:::
+
+::: {layout-ncol="1"}
+![](rahpa1.JPG){group="elsewhere"}
+:::
+
+Ahead of us await two glacier outlets to ford, Máhtujågåsj and Tjåggŋårisjåhkå. Fed by the preceding day's heavy rainfall, the latter is particularly formidable, a feeling of wonder and uncertainty filling the heart upon first encounter. Eventually a way is charted across the rapidly flowing water that has etched a way of its own into the land. The riverbed not being visible through the opaque water, the next step can only be gauged with the help of a walking pole, the stream being of such force to require pressing against it to make it through.
+
+::: {layout-ncol="1"}
+![](tjoggnoris.JPG){group="elsewhere"}
+:::
+
+From here the way continues past Bielajåhkå, another river crossing, and toward Bielavárásj. Although the way ahead is clear, we momentarily lose track and spend some time reorienting ourselves, pushing past waterlogged ground. As Bielavárásj is reached and some further elevation is gained, the mood lifts and we take refuge next to the hillside to feed ourselves. The top of Bielavárásj offers a windy view over the vast valley underneath, Ráhpajåhkå and its tributaries gleaming before us.
+
+::: {layout-ncol="1"}
+![](rahpa2.JPG){group="elsewhere"}
+:::
+
+The day is not done and the way continues along the waterlogged side of Bielatjåhkkå. The old foothpath we are on, cutting across thickets of willow, is overrun by water, its sound our constant companion. Overlooking the great river below, leading to a green plateau before Spökstenen, an immediately recognisable boulder low in the valley underneath, rumoured to be haunted. The narrow and at times steep, rocky path leading up to Snávvávágge is not one for heavy or ill-fitting backpacks.
+
+::: {layout-ncol="1"}
+![](rahpa3.JPG){group="elsewhere"}
+:::
+
+::: {layout-ncol="1"}
+![](spokst.JPG){group="elsewhere"}
+:::
+
+Upon reaching the top of the narrow way leading up to an elevation close to 1000 metres, the landscape changes. Across the valley we catch a glimpse of the great glaciers Jågåsjgaskajiegŋa and Oarjep Oalgásjjiegŋa. The willow thickets give way to open ground.
+
+::: {layout-ncol="1"}
+![](snavva.JPG){group="elsewhere"}
+:::
+
+Up on Snávvávágge lies what I may call my favourite part of the entire journey: the high-up, remote Snávvájávrre and its surroundings. Here the landscape is in marked contrast with the valleys below: grey, stone-laden, barren, hiding silent secrets. Setting up camp for the night here, time feels lost in another world, we climb up to the ledge to watch the rapidly shifting cloud formations over Stuor Skoarkki. Nearby a waterfall flows directly into a hollow in the ground and underneath the massive boulder field the flow of water is audible. If only one knew where this water flows.
+
+I captured several images that night on Snávvávágge, which I look forward to sharing with you in the next chapter.
+
+*This concludes the second part. The third part will soon follow.*
+
+------------------------------------------------------------------------
