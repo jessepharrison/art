@@ -19,7 +19,7 @@ lightbox: auto
 
 *21.1km, 586m ascent*
 
-From here on the weather was in our favour, with only the occasional rain shower passing over us. Passing Skárjá and the temporary summer bridge, taking in the severe power of the Mihkajåhkå river that drains the vast Mihkajiegna and fuses with Smájlajjåhkå, the land underneath cracked open by it. Here at the heart of Sarek also begins the Ráhpajåhkå, giving rise to Ráhpaädno and the massive Rapadalen river system.
+From here on the weather was in our favour, with only the occasional rain shower passing over us. Passing Skárjá and the temporary summer bridge, taking in the severe power of the Mihkajåhkå river that drains the vast Mihkajiegna and fuses with Smájlajjåhkå, the land underneath cracked open by it. Here at the heart of Sarek also begins the Ráhpajåhkå, giving rise to Ráhpaädno and the Rapadalen river system.
 
 ::: {layout-ncol="1"}
 ![](skarja.JPG){group="elsewhere"}
@@ -29,7 +29,7 @@ From here on the weather was in our favour, with only the occasional rain shower
 ![](rahpa1.JPG){group="elsewhere"}
 :::
 
-Ahead of us await two glacier outlets to ford, Máhtujågåsj and Tjåggŋårisjåhkå. Fed by the preceding day's heavy rainfall, the latter is particularly formidable, a feeling of wonder and uncertainty filling the heart upon first encounter. Eventually a way is charted across the rapidly flowing water that has etched a way of its own into the land. The riverbed not being visible through the opaque water, the next step can only be gauged with the help of a walking pole, the stream being of such force to require pressing against it to make it through.
+Ahead of us await two glacier outlets to ford, Máhtujågåsj and Tjåggŋårisjåhkå. Fed by the preceding day's heavy rainfall, the latter is particularly formidable, a feeling of wonder filling the heart upon first encounter. Eventually a way is charted across the rapidly flowing water that has etched a way of its own into the land. The riverbed not being visible through the opaque water, the next step can only be gauged with the help of a walking pole, the stream being of such force to require pressing against it to make it through.
 
 ::: {layout-ncol="1"}
 ![](tjoggnoris.JPG){group="elsewhere"}
@@ -41,7 +41,7 @@ From here the way continues past Bielajåhkå, another river crossing, and towar
 ![](rahpa2.JPG){group="elsewhere"}
 :::
 
-The day is not done and the way continues along the waterlogged side of Bielatjåhkkå. The old foothpath we are on, cutting across thickets of willow, is overrun by water, its sound our constant companion. Overlooking the great river below, leading to a green plateau before Spökstenen, an immediately recognisable boulder low in the valley underneath, rumoured to be haunted. The narrow and at times steep, rocky path leading up to Snávvávágge is not one for heavy or ill-fitting backpacks.
+From here the way continues along the side of Bielatjåhkkå. The old foothpath we are on, cutting across thickets of willow, is overrun by water, its sound our constant companion. Overlooking the great river below, leading to a green plateau before Spökstenen, an immediately recognisable boulder low in the valley underneath, rumoured to be haunted.
 
 ::: {layout-ncol="1"}
 ![](rahpa3.JPG){group="elsewhere"}
@@ -51,7 +51,7 @@ The day is not done and the way continues along the waterlogged side of Bielatj�
 ![](spokst.JPG){group="elsewhere"}
 :::
 
-Upon reaching the top of the narrow way leading up to an elevation close to 1000 metres, the landscape changes. Across the valley we catch a glimpse of the great glaciers Jågåsjgaskajiegŋa and Oarjep Oalgásjjiegŋa. The willow thickets give way to open ground.
+The path leading up to Snávvávágge is narrow and steeper than other sections on the trail, offering staggering views. Upon reaching the top of the narrow way leading up to an elevation close to 1000 metres, the landscape changes. Across the valley we catch a glimpse of the glaciers Jågåsjgaskajiegŋa and Oarjep Oalgásjjiegŋa. The thickets give way to open ground.
 
 ::: {layout-ncol="1"}
 ![](snavva.JPG){group="elsewhere"}
@@ -61,6 +61,6 @@ Up on Snávvávágge lies what I may call my favourite part of the entire journe
 
 I captured several images that night on Snávvávágge, which I look forward to sharing with you in the next chapter.
 
-*This concludes the second part. The third part will soon follow.*
+*This concludes the second part. [See here for the third part](https://www.jesse-harrison.com/posts/sarek-23-pt3/).*
 
 ------------------------------------------------------------------------
