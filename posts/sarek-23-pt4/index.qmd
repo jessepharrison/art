@@ -1,0 +1,94 @@
+---
+title: 'Sarek, Aug 2023 (Part 4)'
+author: Jesse Harrison
+date: '2023-08-25'
+slug: sarek-2023
+categories:
+    - Hiking
+    - Sarek
+description: 'Through the Sarek Wilderness'
+draft: false
+filters:
+   - lightbox
+lightbox: auto
+---
+
+**For the third part of this photo story, [see here](https://www.jesse-harrison.com/posts/sarek-23-pt3/).**
+
+**To start from the beginning, [see Part 1](https://www.jesse-harrison.com/posts/sarek-23-pt1/).**
+
+## Day 5: Rapadalen
+
+*19km, 752m ascent*
+
+Following a descent between Stuor Skoarkki and Låddebákte, the stream Jilájåhkå is crossed. In contrast with the preceding days, today is warm, bordering on hot, very few clouds in the sky.
+
+The traverse through the densely vegetated Rapadalen is arduous and time-consuming, and not to be underestimated. Opting to find the lower path that cuts across the waterside, we enter a network of passages that is often submerged in ankle-deep water. Soon we are nearly up to our waists in a sulphurous marsh, pushing past snarling willows, the heat of the sun above us.
+
+Movement here is slow and at times I find myself thinking of nightmares and feverish hallucinations. My friend loses his trekking pole in the murky water, luckily rediscovered after a period of frantic searching. The ground becomes easier to move through once the lower path is found, but here the river channels are also waist-deep at times. After a misplaced step I take a plunge in a large deposit of soft, grey silt, landing on my back: a practical reminder that we are, after all, walking through a massive river basin. Looking back at photos from this part of the trip, they all look deceptively unassuming, even inviting.
+
+::: {layout-ncol="1"}
+![](rapa1.JPG){group="elsewhere"}
+:::
+
+Working our through the labyrinth of forest paths, we eventually come across Alep Vássjájågåsj. The stream is split into two and after crossing the second tributary, a path leading up to higher ground can be found. Locating this path is essential if wishing to move higher up. Not the first time on this trip, a sense of relief fills us as we begin moving up and away from the jungle-like valley and reach Vássjálåpptå.
+
+::: {layout-ncol="1"}
+![](rapa2.JPG){group="elsewhere"}
+:::
+
+::: {layout-ncol="1"}
+![](rapa3.JPG){group="elsewhere"}
+:::
+
+From here the traverse is easy. As described in prior entries, an easy crossing point over Lulep Vássjájågåsj can be found at 970m, this number already scribbled onto my map before setting foot into Sarek. A further crossing is made over the stream flowing from Rådnik and we search the rocky ground for suitable spots to pitch our tents. From here there are wide-ranging views into the valley underlying us, draped in twilight, and the chain of mountains safeguarding it. 
+
+::: {layout-ncol="1"}
+![](rapa4.JPG){group="elsewhere"}
+:::
+
+::: {layout-ncol="1"}
+![](rapa5.JPG){group="elsewhere"}
+:::
+
+After setting camp, large-horned reindeer accompany us as we climb over a nearby summit to watch the landscape underneath us. A small ascent is enough for the vast river system reveals more of itself. It has been a tough day, on the way back to the tent I can feel the tiredness reach into my bones as the moonlight shines over a still pond nearby. Lying still in my tent, I can hear the reindeer grazing within a few metres' distance outside, the calming sound of their bells in the almost windless night.
+
+::: {layout-ncol="1"}
+![](rapa6.JPG){group="elsewhere"}
+:::
+
+## Days 6-8: The way out
+
+*48.4km, 1451m ascent*
+
+Waking up on Day 6, the weather is fine once again. I fire up my stove and boil some ripe pu'er, water from the nearby stream tastes very pure.
+
+::: {layout-ncol="1"}
+![](rapa7.JPG){group="elsewhere"}
+:::
+
+From here on, we take the route over the mountain plateaus toward Skierfe and Aktse, passing Suorkitjåhkkå and the north side of Gierdogiesjtjåhkkå. On its side lies a vast boulder field and a treacherous-looking snowbridge over the nameless stream cutting between it and Suorkisjnjnurttje. The plain underneath seems mind-boggling in its emptiness.
+
+The way to Skierfe is quickly made and we visit the top to capture another view of the Rapadalen. The views on top are vertigo-inducing. Here and on the way in I am already processing the feeling of heading back to the heavily frequented paths of the Kungsleden, which we follow all the way to Saltoluokta. There are several people on Skierfe and it is here that I also stop taking more photos of the trip.
+
+::: {layout-ncol="1"}
+![](rapa8.JPG){group="elsewhere"}
+:::
+
+On these days, additional twists to the way home are brought up in the form of norovirus cases rapidly spreading south from Kebnekaise, prompting closure of all fjällstations on the way. We hear that many sick travellers have been lifted off the trail by helicopter and of how [Storm Hans](https://www.theguardian.com/world/2023/aug/08/storm-hans-causes-havoc-in-norway-with-heaviest-rain-in-25-years-forecast), the strongest storm encountered in over two decades, was predicted to directly pass over North Sweden. One can only imagine how this would have been, but ultimately the storm passed through South Sweden instead, bringing much destruction to lower parts of the country. Thankfully we managed to make our way back safely and in good health! On the bright side of things, dinner is still served at Saltoluokta and is excellent as always, a rewarding way to mark the end of this through-hike.
+
+## Closing words
+
+What a journey this was, hopefully one of many that will further let me catch a glimpse of Sarek. This is certainly a place that can only be taken in little by little. It is for the visitor to consider and accept what she offers at a given time, here one's own preconceptions are best left at the door.
+
+And what did I pick up? Once again to feel and enjoy my own lack of significance in this vast landscape. It is that peace that helps me carry on with day-to-day life while dreaming of times I can walk through such places again. I have endless space in me for this, another beautiful and lasting memory to follow on the way.
+
+*When You and I behind the Veil are past\
+Oh, but the long, long while while the World shall last,\
+Which of our Coming and Departure heeds As the Sea's self should heed a pebble-cast.*
+
+-   The Rubaiyat
+
+*Thanks for reading! I will still write up a more technically-minded post on gear used on the trail, this will soon follow.*
+
+------------------------------------------------------------------------
